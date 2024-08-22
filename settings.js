@@ -56,7 +56,7 @@ global.mess = {
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
+   public : 'This feature is only for public  chats',
     wait: 'In process... ',    
     error: 'Error!',
 }
